@@ -1,0 +1,8 @@
+{
+  "fv": 1000,
+  "coupon_rate": 0.05,
+  "maturity": 10.25,
+  "coupon_freq": 2,
+  "yield_j": 0.06,
+  "m": 2
+}

@@ -1,0 +1,15 @@
+{
+  "fv": 1000.0,
+  "coupon_rate": 0.05,
+  "maturity": 10.0,
+  "coupon_freq": 2,
+  "curve_m": 2,
+  "price": 925.6126256977221,
+  "macaulay_duration": 7.894997340182341,
+  "modified_duration": 7.665045961342078,
+  "convexity": 71.78539801290002,
+  "effective_duration_1bp": 7.665047185532467,
+  "effective_convexity_1bp": 71.78540499584598,
+  "stub_enabled": false,
+  "n_cashflows": 20
+}

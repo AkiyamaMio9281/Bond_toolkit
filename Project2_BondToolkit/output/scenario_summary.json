@@ -1,0 +1,17 @@
+{
+  "base_price": 925.6126256977221,
+  "effective_duration_1bp": 7.665047185532467,
+  "effective_convexity_1bp": 71.78540499584598,
+  "stub_enabled": false,
+  "curve_pillars": [
+    0.5,
+    1.0,
+    2.0,
+    5.0,
+    10.0,
+    20.0,
+    30.0
+  ],
+  "curve_m": 2,
+  "krd_bump_bp": 1.0
+}
